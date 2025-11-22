@@ -16,4 +16,4 @@ SET(MODULES
 
 add_include( Externals/2.rc.09 )
 
-build_static_lib( Base64Cpp "${MODULES}" )
+build_static_lib( base64cpp "${MODULES}" )
